@@ -1,11 +1,11 @@
 <h1 align="center">Hello World 👋, I'm Ujjwal</h1>
-<h3 align="center">🚀 I'm a passionate Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning at VIT Chennai. As a tech enthusiast, I'm constantly exploring the intersections of AI, cybersecurity, and full-stack development to create meaningful, high-impact solutions.</h3>
+<h3 align="center">🚀 I'm a passionate Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning at VIT Chennai. As a tech enthusiast, I'm constantly exploring the intersections of AI and backend development to create meaningful, high-impact solutions.</h3>
 
-- 🌱 I’m currently learning **Electron.js, AWS, Kubernetes**
+- 🌱 I’m currently learning **AWS, Kubernetes**
 
 - 👯 I’m looking to collaborate on **Full Stack, Cloud and Deep Learning projects**
 
-- 💬 Ask me about **Java, Node.js, Shell scripting**
+- 💬 Ask me about **Java, Node.js, Shell scripting, AWS**
 
 - 📫 How to reach me **ujjwal.02023@gmail.com**
 
