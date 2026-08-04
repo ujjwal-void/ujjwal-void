@@ -6,7 +6,7 @@
 <!-- Quick Badges & Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ujjwal-76256a227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/ujjwal738" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/ujjwal-void" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://leetcode.com/u/user5697gs/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="mailto:ujjwal.02023@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://twitter.com/ujjwal945922901" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
@@ -87,9 +87,9 @@ Currently driving core AI & financial backend engineering at **ZFunds** (buildin
 
 ### 🏆 Featured Projects & Hackathons
 
-- 🔍 **[Adaptive RAG Search](https://github.com/ujjwal738/adaptive-rag-search)** — Agentic AI RAG search system with dynamic query classification, ReAct retrieval, hallucination verification, and real-time Streamlit analytics.
-- 📋 **[Nexus PM](https://github.com/ujjwal738)** — Project Management backend service built with Node.js, Express, MongoDB & 3-tier RBAC authentication (30+ REST endpoints).
-- ✍️ **[Write Medium](https://github.com/ujjwal738)** — Full-stack blogging platform with JWT authentication, optimized MongoDB querying, and clean Tailwind design.
+- 🔍 **[Adaptive RAG Search](https://github.com/ujjwal-void/adaptive-rag-search)** — Agentic AI RAG search system with dynamic query classification, ReAct retrieval, hallucination verification, and real-time Streamlit analytics.
+- 📋 **[Nexus PM](https://github.com/ujjwal-void)** — Project Management backend service built with Node.js, Express, MongoDB & 3-tier RBAC authentication (30+ REST endpoints).
+- ✍️ **[Write Medium](https://github.com/ujjwal-void)** — Full-stack blogging platform with JWT authentication, optimized MongoDB querying, and clean Tailwind design.
 - 🥇 **1st Runner-Up (Osmos Hackathon)** — Built **AdCraft**, an AI-powered advertisement generation platform (1st Runner-Up out of 131 teams).
 - 🛡️ **Finalist (CryptoGuard Hackathon at VIT Chennai)** — Built **CryptoGuard**, an identity verification tool with Face Detection & Web3 asset protection.
 
@@ -99,17 +99,21 @@ Currently driving core AI & financial backend engineering at **ZFunds** (buildin
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ujjwal738&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ujjwal's GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal738&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ujjwal-void&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ujjwal's GitHub Stats" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ujjwal-void&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal738&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=ujjwal-void&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjwal-void&theme=react-dark" alt="Activity Graph" width="100%" />
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Designed with ❤️ by <a href="https://github.com/ujjwal738">Ujjwal</a></sub>
+  <sub>Designed with ❤️ by <a href="https://github.com/ujjwal-void">Ujjwal</a></sub>
 </div>
