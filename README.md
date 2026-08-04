@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,38,60&height=210&section=header&text=Ujjwal%20Ujjwal&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Software%20Development%20Engineer%20%7C%20AI%20%26%20Backend%20Architect&descAlignY=58&descSize=18"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,38,60&height=210&section=header&text=Ujjwal%20Ujjwal&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Software%20Development%20Engineer%20%7C%20AI%20%26%20Backend%20Architect&descAlignY=58&descSize=18"/> -->
 
 <!-- Quick Badges & Social Links -->
 <p align="center">
