@@ -93,26 +93,7 @@ Currently driving core AI & financial backend engineering at **ZFunds** (buildin
 - 🥇 **1st Runner-Up (Osmos Hackathon)** — Built **AdCraft**, an AI-powered advertisement generation platform (1st Runner-Up out of 131 teams).
 - 🛡️ **Finalist (CryptoGuard Hackathon at VIT Chennai)** — Built **CryptoGuard**, an identity verification tool with Face Detection & Web3 asset protection.
 
----
 
-### 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ujjwal-void&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ujjwal's GitHub Stats" />
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ujjwal-void&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=ujjwal-void&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjwal-void&theme=react-dark" alt="Activity Graph" width="100%" />
-
-</div>
-
----
 
 <div align="center">
   <sub>Designed with ❤️ by <a href="https://github.com/ujjwal-void">Ujjwal</a></sub>
