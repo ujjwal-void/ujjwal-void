@@ -29,16 +29,6 @@ Currently driving core AI & financial backend engineering at **ZFunds** (buildin
 
 ---
 
-### 🚀 Experience Highlights
-
-| Company / Role | Focus & Key Contributions |
-| :--- | :--- |
-| **ZFunds** <br> *(SDE, Apr 2026 – Present)* | Core engineer on **ZIVA v2** WealthTech AI platform. Architected end-to-end Portfolio Analysis sub-systems, Goal/Portfolio Proposal engines, multi-language context switching, and LLM prompt guardrails. |
-| **CyberPoint / Advor.ai** <br> *(Founding Engineer, Jan 2025 – Apr 2026)* | Engineered hybrid RAG pipelines (Llama, FAISS, Elasticsearch), event-driven RabbitMQ profile ranking (cut P99 latency from 700ms to <150ms), Redis caching/prefetch pipelines, and zero-downtime AWS deployments. |
-| **DRDO** <br> *(DevOps & Network Intern, Jun 2024 – Jul 2024)* | Built real-time LAN monitoring tool using Flask & packet sniffing; containerized with Docker & Kubernetes for observability. |
-| **Iamneo** <br> *(Java Fullstack Intern, Aug 2023 – Dec 2023)* | Developed Spring Boot REST APIs, React administrative dashboards, and Kafka event streaming consumers. |
-
----
 
 ### 🛠️ Tech Stack & Toolkit
 
@@ -83,18 +73,5 @@ Currently driving core AI & financial backend engineering at **ZFunds** (buildin
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 
----
-
-### 🏆 Featured Projects & Hackathons
-
-- 🔍 **[Adaptive RAG Search](https://github.com/ujjwal-void/adaptive-rag-search)** — Agentic AI RAG search system with dynamic query classification, ReAct retrieval, hallucination verification, and real-time Streamlit analytics.
-- 📋 **[Nexus PM](https://github.com/ujjwal-void)** — Project Management backend service built with Node.js, Express, MongoDB & 3-tier RBAC authentication (30+ REST endpoints).
-- ✍️ **[Write Medium](https://github.com/ujjwal-void)** — Full-stack blogging platform with JWT authentication, optimized MongoDB querying, and clean Tailwind design.
-- 🥇 **1st Runner-Up (Osmos Hackathon)** — Built **AdCraft**, an AI-powered advertisement generation platform (1st Runner-Up out of 131 teams).
-- 🛡️ **Finalist (CryptoGuard Hackathon at VIT Chennai)** — Built **CryptoGuard**, an identity verification tool with Face Detection & Web3 asset protection.
-
-
-
-<div align="center">
   <sub>Designed with ❤️ by <a href="https://github.com/ujjwal-void">Ujjwal</a></sub>
 </div>
