@@ -20,12 +20,10 @@
 
 Hello there! I'm **Ujjwal**, a **Software Development Engineer** specialized in **AI/LLM Architecture**, **Distributed Systems**, and **High-Performance Backend Engineering**.
 
-Currently driving core AI & financial backend engineering at **ZFunds** (building ZIVA v2, India's pioneer WealthTech AI platform). Previously engineered high-throughput event-driven microservices & hybrid RAG engines at **CyberPoint (Advor.ai)** and internal monitoring systems at **DRDO**.
 
-- 🔭 **Currently Building**: Advanced RAG workflows, agentic AI pipelines & financial recommendation engines at **ZFunds**.
-- 🧠 **Specialized In**: Agentic AI (LangGraph, LangChain, RAG), Event-Driven Architecture (RabbitMQ, Redis), High-Concurrency APIs (FastAPI, Express, Nest.js).
-- 🎓 **Education**: B.Tech in Computer Science Engineering (AI & ML Specialization) at **Vellore Institute of Technology (VIT), Chennai**.
-- 📍 **Based In**: Gurugram, India.
+- **Currently Building**: Advanced RAG workflows, agentic AI pipelines & financial recommendation engines at **ZFunds**.
+- **Education**: B.Tech in Computer Science Engineering (AI & ML Specialization) at **Vellore Institute of Technology (VIT), Chennai**.
+- **Based In**: Gurugram, India.
 
 ---
 
@@ -54,13 +52,6 @@ Currently driving core AI & financial backend engineering at **ZFunds** (buildin
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-
-#### 💻 Frontend & UI Development
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 #### ☁️ Cloud, DevOps & Databases
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
