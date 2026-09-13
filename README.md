@@ -44,5 +44,4 @@ Hello there! I'm **Ujjwal**, a **Software Development Engineer** specialized in 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 
-  <sub>Designed with ❤️ by <a href="https://github.com/ujjwal-void">Ujjwal</a></sub>
 </div>
