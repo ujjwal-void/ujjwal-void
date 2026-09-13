@@ -5,9 +5,6 @@ Hello there! I'm **Ujjwal**, a **Software Development Engineer** specialized in 
 - **Education**: B.Tech in Computer Science Engineering (AI & ML Specialization) at **Vellore Institute of Technology (VIT), Chennai**.
 - **Based In**: Gurugram, India.
 
----
-
-
 ### 🛠️ Tech Stack & Toolkit
 
 #### 🤖 AI, LLM & Machine Learning
