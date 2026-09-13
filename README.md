@@ -3,14 +3,6 @@
 <!-- Animated Header Banner -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,38,60&height=210&section=header&text=Ujjwal%20Ujjwal&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Software%20Development%20Engineer%20%7C%20AI%20%26%20Backend%20Architect&descAlignY=58&descSize=18"/> -->
 
-<!-- Quick Badges & Social Links -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/ujjwal-76256a227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/ujjwal-void" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://leetcode.com/u/ujjwal92/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="mailto:ujjwal.02023@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://twitter.com/ujjwal945922901" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
-</p>
 
 </div>
 
